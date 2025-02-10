@@ -1,7 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Rashmi Jayawardhana</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
-<!--  -->A
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Web+Developer;++;Responsible+Committed+Team+Player;Creative+and+Analytical+Thinker;"></a>
 </p>
