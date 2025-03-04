@@ -43,7 +43,7 @@
 ### ⚙️ Backend
 <p align="left">
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank"> <img src="[https://www.vectorlogo.zone/logos/springio/springio-icon.svg](https://dominickm.com/wp-content/uploads/2016/06/spring-boot-logo_full.png)" alt="Spring Boot" width="40" height="40"/> </a>
+  <a href="https://spring.io/" target="_blank"> <img src="[https://www.vectorlogo.zone/logos/springio/springio-icon.svg]" alt="Spring Boot" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
 </p>
 
