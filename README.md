@@ -47,7 +47,7 @@
   <img src="https://github.com/user-attachments/assets/e9072c72-40ce-468b-b688-360d60e1ea22" alt="Spring Boot" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/40de2022-0c73-4c3d-8c5d-a05c7d9523c5" alt="Django" width="40" height="40"/></a>
+  <img src="https://github.com/user-attachments/assets/7b0437fa-3d01-4c59-9caf-2e2d67b3a782" alt="Django" width="40" height="40"/></a>
 </p>
 
 ### 🗄️ Databases
