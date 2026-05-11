@@ -2,7 +2,7 @@
 
 **Fullstack Web Developer** · BSc Hons Information Technology student at University of Moratuwa, Sri Lanka
 
-I enjoy building end-to-end web applications — from crafting clean UIs to designing scalable backend systems. I'm always looking to turn ideas into real, working products.
+I enjoy building end-to-end web applications from crafting clean UIs to designing scalable backend systems. I'm always looking to turn ideas into real, working products.
 
 📬 rashmijayawardhana2001@gmail.com
 
