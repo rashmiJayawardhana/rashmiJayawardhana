@@ -58,7 +58,7 @@ I enjoy building end-to-end web applications — from crafting clean UIs to desi
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rashmijayawardhana&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rashmijayawardhana&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-  <img src="https://streak-stats.demolab.com?user=rashmijayawardhana&theme=default&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=rashmijayawardhana&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </picture>
 
 </div>
@@ -66,13 +66,9 @@ I enjoy building end-to-end web applications — from crafting clean UIs to desi
 <div align="center">
 
 <picture>
-  <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rashmijayawardhana&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashmijayawardhana&theme=tokyonight" />
-</div>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashmijayawardhana&theme=tokyonight"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashmijayawardhana&theme=github"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashmijayawardhana&theme=github"/>
 </picture>
 
 </div>
