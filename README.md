@@ -4,9 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=header&text=Hi,%20I'm%20Rashmi%20%F0%9F%91%8B&fontColor=ffffff&fontSize=36&fontAlignY=45&animation=fadeIn" width="100%"/>
 </picture>
 
-**Fullstack Web Developer** · BSc Hons Information Technology student at University of Moratuwa, Sri Lanka
+**Fullstack Developer · React · Spring Boot · Node.js**
 
-I enjoy building end-to-end web applications — from crafting clean UIs to designing scalable backend systems. I'm always looking to turn ideas into real, working products.
+Final-year BSc Hons IT undergraduate at University of Moratuwa, Sri Lanka. I build end-to-end web applications from clean, responsive UIs to scalable backend APIs. Currently open to internship and graduate opportunities.
 
 📬 rashmijayawardhana2001@gmail.com
 
@@ -18,6 +18,18 @@ I enjoy building end-to-end web applications — from crafting clean UIs to desi
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27531144)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@rashmijayawardhana)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/rashmijayawardh1)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [Project Name](https://github.com/rashmijayawardhana) | What problem it solves in one sentence | React · Node.js · MongoDB |
+| [Project Name](https://github.com/rashmijayawardhana) | What problem it solves in one sentence | Spring Boot · PostgreSQL |
+| [Project Name](https://github.com/rashmijayawardhana) | What problem it solves in one sentence | Next.js · Django |
+
+> 💡 Replace these rows with your real projects — even university assignments count if they demonstrate your skills.
 
 ---
 
