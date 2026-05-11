@@ -6,7 +6,7 @@
 
 **Full-Stack Software Engineer · React · Spring Boot · Node.js · DevOps**
 
-Final-year BSc Hons IT undergraduate at University of Moratuwa. Currently interning at **Creavint** building microservices-based web and mobile applications. Completed WSO2's Linux Systems Administration and DevOps Engineering training. Seeking an Associate Software Engineer role.
+Final-year BSc Hons IT undergraduate at University of Moratuwa. Completed a 1-year Full Stack Software Engineer internship at **Creavint**, building microservices-based web and mobile applications. Completed WSO2's Linux Systems Administration and DevOps Engineering training. Seeking an Associate Software Engineer role.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-rashmi-jayawardhana.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashmijayawardhana)
@@ -21,10 +21,10 @@ Final-year BSc Hons IT undergraduate at University of Moratuwa. Currently intern
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [Real-Time Task & Messaging App](https://github.com/rashmiJayawardhana/Real-Time_Tasks_App) | Full-stack mobile app with WebSocket messaging, push notifications, offline support, and automated tests. Backend on AWS EC2. Built in 4 days. | React Native · Node.js · Socket.IO · MySQL · Jest |
+| [Real-Time Task and Messaging App](https://github.com/rashmiJayawardhana/Real-Time_Tasks_App) | Full-stack mobile app with WebSocket messaging, push notifications, offline support, and automated tests. Backend deployed on AWS EC2. Built in 4 days. | React Native · Node.js · Socket.IO · MySQL · Jest |
 | [Task Manager Application](https://github.com/rashmiJayawardhana/Task_Manager_App) | Web app with CRUD, JWT auth, role-based access control, comment system, and Dockerized deployment | Angular · Spring Boot · MySQL · Docker |
-| [YouTube Upload Success Predictor](https://github.com/rashmiJayawardhana) | ML classification model (71.4% accuracy, AUC-ROC 0.814) trained on 275 Sri Lankan YouTube videos with live Streamlit app | XGBoost · scikit-learn · Streamlit · Plotly |
-| [Project Management System](https://github.com/rashmiJayawardhana) | Construction company PM tool mentored by London Stock Exchange Group — built admin & client modules with real-time updates | React · Spring Boot · Flutter · Socket.IO · MySQL |
+| [YouTube Upload Success Predictor](https://github.com/rashmiJayawardhana) | ML classification model (71.4% accuracy, AUC-ROC 0.814) trained on 275 Sri Lankan YouTube videos with a live Streamlit app | XGBoost · scikit-learn · Streamlit · Plotly |
+| [Project Management System](https://github.com/rashmiJayawardhana) | Construction company PM tool mentored by London Stock Exchange Group. Built admin and client modules with real-time updates | React · Spring Boot · Flutter · Socket.IO · MySQL |
 | [Flight Tracking App](https://github.com/rashmiJayawardhana) | Real-time flight tracking mobile app with AviationStack API, Google OAuth via Clerk, and cross-platform Android/iOS support | React Native · PostgreSQL · Zustand · Clerk |
 
 ---
@@ -55,7 +55,7 @@ Final-year BSc Hons IT undergraduate at University of Moratuwa. Currently intern
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![MSSQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
-**Cloud & DevOps**
+**Cloud and DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
@@ -69,7 +69,7 @@ Final-year BSc Hons IT undergraduate at University of Moratuwa. Currently intern
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
-**Tools & Design**
+**Tools and Design**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
