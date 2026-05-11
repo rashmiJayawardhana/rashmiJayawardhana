@@ -1,8 +1,12 @@
-# Hi, I'm Rashmi Jayawardhana 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=header&text=Hi,%20I'm%20Rashmi%20%F0%9F%91%8B&fontColor=ffffff&fontSize=36&fontAlignY=45&animation=fadeIn"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=a78bfa&height=120&section=header&text=Hi,%20I'm%20Rashmi%20%F0%9F%91%8B&fontColor=ffffff&fontSize=36&fontAlignY=45&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=header&text=Hi,%20I'm%20Rashmi%20%F0%9F%91%8B&fontColor=ffffff&fontSize=36&fontAlignY=45&animation=fadeIn" width="100%"/>
+</picture>
 
 **Fullstack Web Developer** · BSc Hons Information Technology student at University of Moratuwa, Sri Lanka
 
-I enjoy building end-to-end web applications from crafting clean UIs to designing scalable backend systems. I'm always looking to turn ideas into real, working products.
+I enjoy building end-to-end web applications — from crafting clean UIs to designing scalable backend systems. I'm always looking to turn ideas into real, working products.
 
 📬 rashmijayawardhana2001@gmail.com
 
@@ -50,9 +54,33 @@ I enjoy building end-to-end web applications from crafting clean UIs to designin
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rashmijayawardhana&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rashmijayawardhana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rashmijayawardhana&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rashmijayawardhana&show_icons=true&theme=default&hide_border=true"/>
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmijayawardhana&theme=tokyonight&hide_border=true&layout=compact&langs_count=6"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmijayawardhana&theme=default&hide_border=true&layout=compact&langs_count=6"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmijayawardhana&theme=default&hide_border=true&layout=compact"/>
+</picture>
+
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashmijayawardhana&theme=tokyonight" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rashmijayawardhana&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rashmijayawardhana&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://streak-stats.demolab.com?user=rashmijayawardhana&theme=default&hide_border=true"/>
+</picture>
+
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=80&section=footer"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=a78bfa&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=80&section=footer" width="100%"/>
+</picture>
