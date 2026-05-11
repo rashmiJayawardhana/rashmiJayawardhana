@@ -56,15 +56,9 @@ I enjoy building end-to-end web applications — from crafting clean UIs to desi
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rashmijayawardhana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rashmijayawardhana&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rashmijayawardhana&show_icons=true&theme=default&hide_border=true"/>
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmijayawardhana&theme=tokyonight&hide_border=true&layout=compact&langs_count=6"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmijayawardhana&theme=default&hide_border=true&layout=compact&langs_count=6"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmijayawardhana&theme=default&hide_border=true&layout=compact"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rashmijayawardhana&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rashmijayawardhana&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://streak-stats.demolab.com?user=rashmijayawardhana&theme=default&hide_border=true"/>
 </picture>
 
 </div>
@@ -72,9 +66,13 @@ I enjoy building end-to-end web applications — from crafting clean UIs to desi
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rashmijayawardhana&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rashmijayawardhana&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-  <img src="https://streak-stats.demolab.com?user=rashmijayawardhana&theme=default&hide_border=true"/>
+  <div align="center">
+  <img src="https://streak-stats.demolab.com?user=rashmijayawardhana&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashmijayawardhana&theme=tokyonight" />
+</div>
 </picture>
 
 </div>
