@@ -6,7 +6,7 @@
 
 **Full-Stack Software Engineer · React · Spring Boot · Node.js · DevOps**
 
-Final-year BSc Hons IT undergraduate at University of Moratuwa. Completed a 1-year Full Stack Software Engineer internship at **Creavint**, building microservices-based web and mobile applications. Completed WSO2's Linux Systems Administration and DevOps Engineering training. Seeking an Associate Software Engineer role.
+Final-year BSc Hons IT undergraduate at University of Moratuwa. Completed a 1-year Full Stack Software Engineer internship at **Creavint**, building microservices-based web and mobile applications. Completed WSO2's Linux Systems Administration and DevOps Engineering training. Seeking an Software Engineer role.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-rashmi-jayawardhana.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashmijayawardhana)
