@@ -1,12 +1,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=header&text=Hi,%20I'm%20Rashmi%20%F0%9F%91%8B&fontColor=ffffff&fontSize=36&fontAlignY=45&animation=fadeIn"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=a78bfa&height=120&section=header&text=Hi,%20I'm%20Rashmi%20%F0%9F%91%8B&fontColor=ffffff&fontSize=36&fontAlignY=45&animation=fadeIn"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=2da44e&height=120&section=header&text=Hi,%20I'm%20Rashmi%20%F0%9F%91%8B&fontColor=ffffff&fontSize=36&fontAlignY=45&animation=fadeIn"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=header&text=Hi,%20I'm%20Rashmi%20%F0%9F%91%8B&fontColor=ffffff&fontSize=36&fontAlignY=45&animation=fadeIn" width="100%"/>
 </picture>
 
 **Full-Stack Software Engineer · React · Spring Boot · Node.js · DevOps**
 
-Final-year BSc Hons IT undergraduate at University of Moratuwa. Completed a 1-year Full Stack Software Engineer internship at **Creavint**, building microservices-based web and mobile applications. Completed WSO2's Linux Systems Administration and DevOps Engineering training. Seeking an Software Engineer role.
+Final-year BSc Hons IT undergraduate at University of Moratuwa. Completed a 1-year Full Stack Software Engineer internship at **Creavint**, building microservices-based web and mobile applications. Completed WSO2's Linux Systems Administration and DevOps Engineering training. Seeking a Software Engineer role.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-rashmi-jayawardhana.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashmijayawardhana)
@@ -100,6 +100,6 @@ Final-year BSc Hons IT undergraduate at University of Moratuwa. Completed a 1-ye
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=80&section=footer"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=a78bfa&height=80&section=footer"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=2da44e&height=80&section=footer"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=80&section=footer" width="100%"/>
 </picture>
