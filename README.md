@@ -50,14 +50,6 @@ I enjoy building end-to-end web applications from crafting clean UIs to designin
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=rashmijayawardhana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmijayawardhana&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="180"/>
-
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=rashmijayawardhana&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
