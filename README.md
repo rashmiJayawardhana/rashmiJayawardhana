@@ -49,11 +49,18 @@ I enjoy building end-to-end web applications from crafting clean UIs to designin
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rashmijayawardhana&show_icons=true&theme=default&hide_border=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmijayawardhana&layout=compact&theme=default&hide_border=true&langs_count=6" />
-</p>
+<div align="center">
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=rashmijayawardhana&theme=default&hide_border=true" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rashmijayawardhana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmijayawardhana&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="180"/>
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rashmijayawardhana&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashmijayawardhana&theme=tokyonight" />
+</div>
